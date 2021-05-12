@@ -1,9 +1,9 @@
 ### Hi there I'm SHUBHAM 👋
 
-![alt text][Introduction]
+![alt text][Introduction.gif]
 
 
-<--
+<!---
 **shubhambhardwaj007/shubhambhardwaj007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
