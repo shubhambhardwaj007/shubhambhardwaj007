@@ -10,10 +10,10 @@
 
 Check out my OpenSource Contributions and works :
 =================================================
-1. Sharing Technological Experience at [LinkedIN](www.linkedin.com/in/shubham--bhardwaj):floppy_disk::computer::dvd::minidisc:
-2. Actively contributing to [Ansible Galaxy](https://galaxy.ansible.com/shubhambhardwaj007):outbox_tray::outbox_tray:
-3. Writing Technical Blogs on [Medium](https://medium.com/@Shubhamb007):notebook_with_decorative_cover:	📒 :ledger:	📚 :books:
-🔖 :bookmark:	📛 :name_badge:
+## 1. Sharing Technological Experience at [LinkedIN](www.linkedin.com/in/shubham--bhardwaj):floppy_disk::computer::dvd::minidisc:
+## 2. Actively contributing to [Ansible Galaxy](https://galaxy.ansible.com/shubhambhardwaj007):outbox_tray::outbox_tray:	📛 :name_badge:
+## 3. Writing Technical Blogs on [Medium](https://medium.com/@Shubhamb007):notebook_with_decorative_cover:	📒 :ledger:	📚 :books:
+🔖 :bookmark:
 
 
 <!---
