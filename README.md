@@ -3,12 +3,12 @@
 
 ### I love writing automation scripts and watching them flow over the terminal.:sunglasses::sunglasses:<br/>
 ### I am Passionate :innocent: about learning core technologies and Integrating them together to get best out of them.<br/>
-### I have worked in different technological fields like Cloud Computing, Automation, PAAS, IAAC, Databases, Networking, Configuration Management, Big Data Ecosystem, Routing and switching, Application security and much more. :collision::collision:
+### I have worked in different technological fields like Cloud Computing, Automation, PAAS, IAAC, Databases, Networking, Configuration Management, Big Data Ecosystem, Routing and switching, Application Security , Containerization ,Virtualization and much more. :collision::collision:
 
-Professional Skills
-Redhat OpenShift | OpenStack | Ansible | Kubernetes | Amazon Web Services | Microsoft Azure | Google
-GCP | Docker | Podman | Machine Learning | Deep Learning | Jenkins | Hadoop | Hive | RedHat Linux |
-Data analytics & analysis | Git & GitHub | Terraform | Flutter | Mongodb
+## Professional Skills:<br/>
+## Redhat OpenShift | OpenStack | Ansible | Kubernetes | Amazon Web Services | Microsoft Azure | Google
+## GCP | Docker | Podman | Machine Learning | Deep Learning | Jenkins | Hadoop | Hive | RedHat Linux |
+## Data analytics & analysis | Git & GitHub | Terraform | Flutter | Mongodb
 
 
 <!---
