@@ -1,4 +1,4 @@
-## Hi there I'm SHUBHAM 👋
+## Hey there, I'm SHUBHAM 👋
 ![My Introduction!](Introduction.gif "Just an Introduction")
 
 ### I love writing automation scripts and watching them flow over the terminal.:sunglasses::sunglasses:<br/>
@@ -7,6 +7,13 @@
 
 ## :sparkles::sparkles:Professional Skills:<br/>
 ## Redhat OpenShift | OpenStack | Ansible | Kubernetes | Amazon Web Services | Microsoft Azure | Google GCP | Docker | Podman | Machine Learning | Deep Learning | Jenkins | Hadoop | Hive | RedHat Linux | Data analytics & analysis | Git & GitHub | Terraform | Flutter | Mongodb
+
+Check out my OpenSource Contributions and works :
+=================================================
+1. Sharing Technological Experience at [LinkedIN](www.linkedin.com/in/shubham--bhardwaj):floppy_disk::computer::dvd::minidisc:
+2. Actively contributing to [Ansible Galaxy](https://galaxy.ansible.com/shubhambhardwaj007):outbox_tray::outbox_tray:
+3. Writing Technical Blogs on [Medium](https://medium.com/@Shubhamb007):notebook_with_decorative_cover:	📒 :ledger:	📚 :books:
+🔖 :bookmark:	📛 :name_badge:
 
 
 <!---
