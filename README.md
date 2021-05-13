@@ -3,7 +3,7 @@
 
 ### I love writing automation scripts and watching them flow over the terminal.:sunglasses::sunglasses:
 
-###I am Passionate about learning core technologies and Integrating them together to get best out of them.I have worked in different technological fields like Cloud Computing,Automation,PAAS,IAAC,Databases,Networking,Configuration Management,Big Data Ecosystem,Routing and switching,Application security and much more
+### I am Passionate :innocent: about learning core technologies and Integrating them together to get best out of them.I have worked in different technological fields like Cloud Computing,Automation,PAAS,IAAC,Databases,Networking,Configuration Management,Big Data Ecosystem,Routing and switching,Application security and much more
 
 Professional Skills
 Redhat OpenShift | OpenStack | Ansible | Kubernetes | Amazon Web Services | Microsoft Azure | Google
