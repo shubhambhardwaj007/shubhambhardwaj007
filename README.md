@@ -14,7 +14,8 @@ Check out my OpenSource Contributions and works :
 ## 2. Actively contributing to [Ansible Galaxy](https://galaxy.ansible.com/shubhambhardwaj007):outbox_tray::outbox_tray::name_badge:
 ## 3. Writing Technical Blogs on [Medium](https://medium.com/@Shubhamb007):notebook_with_decorative_cover::ledger::books::bookmark:
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shubham--bhardwaj" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shubham--bhardwaj?trk=profile-badge">Shubham Bhardwaj</a></div>
+```<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shubham--bhardwaj" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shubham--bhardwaj?trk=profile-badge">Shubham Bhardwaj</a></div>
+```
               
 
 
